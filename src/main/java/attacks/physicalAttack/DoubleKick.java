@@ -9,6 +9,6 @@ public class DoubleKick extends PhysicalMove {
 
     @Override
     protected String describe(){
-        return "использует Double Kick";
+        return "uses Double Kick";
     }
 }

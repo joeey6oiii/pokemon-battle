@@ -34,6 +34,6 @@ public class DreamEater extends SpecialMove {
 
     @Override
     protected String describe(){
-        return "использует Dream Eater";
+        return "uses Dream Eater";
     }
 }

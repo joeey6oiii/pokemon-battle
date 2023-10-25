@@ -14,6 +14,6 @@ public class HammerArm extends PhysicalMove {
 
     @Override
     protected String describe(){
-        return "использует Hammer Arm";
+        return "uses Hammer Arm";
     }
 }

@@ -14,6 +14,6 @@ public class SweetScent extends StatusMove {
 
     @Override
     protected String describe(){
-        return "использует Sweet Scent";
+        return "uses Sweet Scent";
     }
 }

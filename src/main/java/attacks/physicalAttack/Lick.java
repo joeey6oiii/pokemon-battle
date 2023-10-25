@@ -15,6 +15,6 @@ public class Lick extends PhysicalMove {
 
     @Override
     protected String describe(){
-        return "использует Lick";
+        return "uses Lick";
     }
 }

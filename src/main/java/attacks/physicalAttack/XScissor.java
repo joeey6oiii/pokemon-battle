@@ -9,6 +9,6 @@ public class XScissor extends PhysicalMove {
 
     @Override
     protected String describe(){
-        return "использует X-Scissor";
+        return "uses X-Scissor";
     }
 }

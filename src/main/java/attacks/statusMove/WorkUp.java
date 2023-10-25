@@ -15,6 +15,6 @@ public class WorkUp extends StatusMove {
 
     @Override
     protected String describe(){
-        return "использует Work Up";
+        return "uses Work Up";
     }
 }

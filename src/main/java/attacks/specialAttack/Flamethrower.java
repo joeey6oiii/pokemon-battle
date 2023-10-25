@@ -15,6 +15,6 @@ public class Flamethrower extends SpecialMove {
 
     @Override
     protected String describe(){
-        return "использует Flamethrower";
+        return "uses Flamethrower";
     }
 }
